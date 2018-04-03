@@ -11,5 +11,6 @@
     </head>
     <body>
         <h1>Main Heading</h1>
+        <h2>An H2 heading</h2>
     </body>
 </html>
