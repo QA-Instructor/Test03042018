@@ -11,6 +11,13 @@
     </head>
     <body>
         <h1>Main Heading</h1>
+
+        <h2>An H2 heading</h2>
+
+        <h3>some h3 stuff>/h3>
+
+
         <h6>An H6 Heading</h6>
+
     </body>
 </html>
