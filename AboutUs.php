@@ -12,6 +12,7 @@
     <body>
         <h1>About Us</h1>
         <p>We are awesome</p>
+        <h3>Meet the team...</h3>
         <p>This feature is complete</p>
         <footer>&copy; 2018</footer>
     </body>
