@@ -16,5 +16,8 @@
 
         <h3>some h3 stuff>/h3>
 
+
+        <h6>An H6 Heading</h6>
+
     </body>
 </html>
