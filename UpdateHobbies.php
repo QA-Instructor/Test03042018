@@ -16,7 +16,7 @@ try {
 // set the PDO error mode to exception
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-$updated = $conn->exec("UPDATE hobbies set hobby='Watching rugby' WHERE ID = 27");
+$updated = $conn->exec("UPDATE hobbies set hobby='Using GIT' WHERE ID = 27");
 
 if($updated){
 
